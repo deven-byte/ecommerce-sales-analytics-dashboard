@@ -2,34 +2,48 @@
 
 ## 📌 Project Overview
 
-This end-to-end E-commerce Sales Analytics project was developed using Excel, MySQL, and Power BI to analyze 3,500+ transactions and generate actionable business insights related to revenue, profit, customer behavior, and product performance.
+This end-to-end E-commerce Sales Analytics project was developed using Excel, MySQL, and Power BI to analyze 3,500+ transactions and generate actionable business insights related to revenue, profit, customer behavior, product performance, and regional sales trends.
+
+The objective was to transform raw transactional data into an interactive business intelligence dashboard that enables stakeholders to monitor performance and make data-driven decisions.
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard]([dashboard.png](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
+![Dashboard](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
 
 ---
 
 ## 🎯 Business Objective
 
-To help business stakeholders:
+The goal of this project was to:
 
-- Monitor sales performance
-- Identify top-performing products
-- Analyze customer purchasing behavior
+- Monitor overall sales performance
+- Identify top-performing products and categories
+- Analyze customer purchasing patterns
 - Evaluate payment mode preferences
 - Track regional sales performance
-- Support data-driven decision-making
+- Generate actionable business insights through interactive reporting
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Excel (Data Cleaning & Preparation)
-- MySQL (Data Storage & SQL Analysis)
-- Power BI (Dashboarding & Visualization)
+### Microsoft Excel
+- Data Cleaning
+- Data Preparation
+- Data Validation
+
+### MySQL
+- Data Storage
+- SQL Querying
+- Business Analysis
+
+### Power BI
+- Data Modeling
+- DAX Measures
+- Dashboard Development
+- Data Visualization
 
 ---
 
@@ -37,60 +51,139 @@ To help business stakeholders:
 
 | Metric | Value |
 |----------|----------|
-| Revenue | ₹2.10 Cr |
-| Profit | ₹37.8 L |
-| Orders | 3,500 |
+| Total Revenue | ₹2.10 Cr |
+| Total Profit | ₹37.8 L |
+| Total Orders | 3,500 |
 | Units Sold | 11,000+ |
-| Avg Order Value | ₹6,000 |
+| Average Order Value | ₹6,000 |
 
 ---
 
 ## 🔍 Key Business Insights
 
-- Electronics generated the highest revenue among all categories.
-- Laptop products contributed the largest share of total sales.
+### Revenue Analysis
+- Generated ₹2.10 Crore in total revenue across 3,500 transactions.
+- Revenue showed seasonal fluctuations throughout the year.
+
+### Product Performance
+- Laptops emerged as the highest revenue-generating product.
+- Electronics contributed the largest share of overall revenue.
+
+### Customer Payment Behavior
 - Debit Card and Net Banking were the most preferred payment methods.
-- Revenue was concentrated across a few top-performing states.
-- Average order value remained around ₹6,000.
-- Sales showed noticeable seasonal fluctuations throughout the year.
+- Digital payment methods accounted for a significant portion of transactions.
+
+### Regional Analysis
+- Revenue was concentrated among a few top-performing states.
+- Geographic analysis revealed high-demand regions contributing significantly to sales.
+
+### Order Value Analysis
+- Average order value remained around ₹6,000, indicating healthy transaction sizes.
 
 ---
 
 ## 📂 Project Workflow
 
-### Data Cleaning & Preparation
-- Removed duplicates
-- Handled missing values
-- Standardized formats
+### 1️⃣ Data Cleaning & Preparation (Excel)
 
-### SQL Analysis
-- Revenue analysis
-- Product performance analysis
-- Customer insights
-- Payment mode analysis
+- Removed duplicate records
+- Handled missing and inconsistent values
+- Standardized data formats
+- Validated transaction records
 
-### Dashboard Development
+### 2️⃣ Data Analysis (MySQL)
+
+Performed SQL analysis to:
+
+- Calculate revenue and profit metrics
+- Analyze category performance
+- Identify top-selling products
+- Evaluate payment mode trends
+- Generate customer and sales insights
+
+### 3️⃣ Dashboard Development (Power BI)
+
+Built an interactive dashboard featuring:
+
 - KPI Cards
-- Revenue Trends
-- Geographic Analysis
-- Interactive Filters
-- Product Performance Visuals
+- Revenue Trend Analysis
+- Product Performance Tracking
+- Geographic Sales Analysis
+- Payment Mode Distribution
+- Interactive Filters and Slicers
+
+---
+
+## 📈 Dashboard Features
+
+### KPI Cards
+- Total Revenue
+- Total Profit
+- Total Orders
+- Units Sold
+- Average Order Value
+
+### Interactive Filters
+- Payment Mode
+- Month
+- State
+- Category
+
+### Visualizations
+- Revenue by Month
+- Top Products by Revenue
+- Revenue by Category
+- Revenue by State
+- Orders by Payment Mode
 
 ---
 
 ## 💡 Skills Demonstrated
 
-- SQL
-- Excel
-- Power BI
-- Data Cleaning
-- Data Visualization
+### Analytics Skills
+- Exploratory Data Analysis (EDA)
 - Business Intelligence
-- KPI Reporting
 - Sales Analytics
+- KPI Reporting
+
+### Technical Skills
+- Excel
+- MySQL
+- SQL Queries
+- Power BI
+- DAX
+- Data Visualization
+
+### Business Skills
+- Revenue Analysis
+- Product Performance Analysis
+- Customer Behavior Analysis
+- Geographic Sales Analysis
+- Business Insight Generation
 
 ---
 
 ## 🚀 Business Impact
 
-Built an interactive dashboard that enables stakeholders to monitor sales performance, identify profitable products, analyze customer behavior, and support data-driven business decisions.
+This dashboard enables stakeholders to:
+
+- Monitor business performance in real time
+- Identify profitable products and categories
+- Understand customer purchasing behavior
+- Optimize payment channel strategies
+- Focus marketing efforts on high-performing regions
+- Support strategic decision-making through data-driven insights
+
+---
+
+## 👨‍💻 Author
+
+**Devendra Changra**
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
+
+📧 Email: devendrachangra04@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/devendra-changra
+
+🔗 GitHub: https://github.com/deven-byte

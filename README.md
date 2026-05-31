@@ -1,40 +1,96 @@
-# E-commerce Sales Analytics Dashboard
+# 🛒 E-commerce Sales Analytics Dashboard
 
-## Overview
-An end-to-end data analytics project built using Excel, MySQL, and Power BI to analyze 3,500+ e-commerce transactions and generate business insights related to revenue, profit, customer behavior, and product performance.
+## 📌 Project Overview
 
-## Tools & Technologies
+This end-to-end E-commerce Sales Analytics project was developed using Excel, MySQL, and Power BI to analyze 3,500+ transactions and generate actionable business insights related to revenue, profit, customer behavior, and product performance.
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard]([dashboard.png](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
+
+---
+
+## 🎯 Business Objective
+
+To help business stakeholders:
+
+- Monitor sales performance
+- Identify top-performing products
+- Analyze customer purchasing behavior
+- Evaluate payment mode preferences
+- Track regional sales performance
+- Support data-driven decision-making
+
+---
+
+## 🛠 Tools & Technologies
+
 - Excel (Data Cleaning & Preparation)
 - MySQL (Data Storage & SQL Analysis)
-- Power BI (Interactive Dashboard & Visualization)
+- Power BI (Dashboarding & Visualization)
 
-## Key Metrics
-- Total Revenue: ₹2.10 Cr
-- Total Profit: ₹37.8 L
-- Total Orders: 3,500
-- Units Sold: 11,000+
+---
 
-## Dashboard Insights
-- Electronics category generated the highest revenue
-- Debit Card and Net Banking were top payment methods
-- Revenue concentrated across top-performing states
-- Top 10 products contributed significant share of total sales
-- Monthly trend analysis identified peak sales periods
+## 📊 Key Metrics
 
-## Dashboard Preview
-![Dashboard Preview](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
+| Metric | Value |
+|----------|----------|
+| Revenue | ₹2.10 Cr |
+| Profit | ₹37.8 L |
+| Orders | 3,500 |
+| Units Sold | 11,000+ |
+| Avg Order Value | ₹6,000 |
 
-## Files Included
-- ecommerce_sales.csv
-- ecommerce_queries.sql
-- Ecommerce_Dashboard.pbix
-- dashboard-preview.png
+---
 
-## Project Highlights
-- Built custom KPIs using DAX measures
-- Created interactive slicers for Month, Category, State, Payment Mode
-- Performed SQL analysis using aggregations, ranking, filtering, and trend queries
-- Designed professional dashboard layout using custom Power BI theme
+## 🔍 Key Business Insights
 
-## Author
-Devendra Changra
+- Electronics generated the highest revenue among all categories.
+- Laptop products contributed the largest share of total sales.
+- Debit Card and Net Banking were the most preferred payment methods.
+- Revenue was concentrated across a few top-performing states.
+- Average order value remained around ₹6,000.
+- Sales showed noticeable seasonal fluctuations throughout the year.
+
+---
+
+## 📂 Project Workflow
+
+### Data Cleaning & Preparation
+- Removed duplicates
+- Handled missing values
+- Standardized formats
+
+### SQL Analysis
+- Revenue analysis
+- Product performance analysis
+- Customer insights
+- Payment mode analysis
+
+### Dashboard Development
+- KPI Cards
+- Revenue Trends
+- Geographic Analysis
+- Interactive Filters
+- Product Performance Visuals
+
+---
+
+## 💡 Skills Demonstrated
+
+- SQL
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- KPI Reporting
+- Sales Analytics
+
+---
+
+## 🚀 Business Impact
+
+Built an interactive dashboard that enables stakeholders to monitor sales performance, identify profitable products, analyze customer behavior, and support data-driven business decisions.

@@ -22,7 +22,7 @@ An end-to-end data analytics project built using Excel, MySQL, and Power BI to a
 - Monthly trend analysis identified peak sales periods
 
 ## Dashboard Preview
-![Dashboard Preview]([images/dashboard-preview.png](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
+![Dashboard Preview](https://github.com/deven-byte/ecommerce-sales-analytics-dashboard/blob/main/ecommerce-sales-dashboard/Dashboard/Dashboard.png)
 
 ## Files Included
 - ecommerce_sales.csv
